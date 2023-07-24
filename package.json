@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Yobuligo/tutorial-password-salt-and-pepper/issues"
   },
-  "homepage": "https://github.com/Yobuligo/tutorial-password-salt-and-pepper#readme"
+  "homepage": "https://github.com/Yobuligo/tutorial-password-salt-and-pepper#readme",
+  "dependencies": {
+    "hash.js": "^1.1.7"
+  }
 }
